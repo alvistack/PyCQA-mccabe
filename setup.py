@@ -33,7 +33,7 @@ setup(
     license='Expat license',
     py_modules=['mccabe'],
     zip_safe=False,
-    setup_requires=['pytest-runner'],
+    setup_requires=[],
     tests_require=['pytest'],
     entry_points={
         'flake8.extension': [

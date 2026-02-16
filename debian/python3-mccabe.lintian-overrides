@@ -1,0 +1,4 @@
+python3-mccabe: copyright-without-copyright-notice
+python3-mccabe: initial-upload-closes-no-bugs
+python3-mccabe: no-manual-page
+python3-mccabe: zero-byte-file-in-doc-directory

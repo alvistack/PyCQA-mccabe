@@ -1,0 +1,4 @@
+python-mccabe source: file-without-copyright-information
+python-mccabe source: no-debian-changes
+python-mccabe source: source-contains-prebuilt-windows-binary
+python-mccabe source: source-package-encodes-python-version
